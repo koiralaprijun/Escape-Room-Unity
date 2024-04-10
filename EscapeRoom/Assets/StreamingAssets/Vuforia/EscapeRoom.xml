@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="pexels-pixabay-87841" size="1.000000 1.333333" />
+    <ImageTarget name="mingwei-lim-rdFaDc-NsQU-unsplash" size="1.000000 1.000000" />
+    <ImageTarget name="fire2" size="1.000000 0.666154" />
+    <ImageTarget name="forest2" size="1.000000 0.600000" />
+    <ImageTarget name="arrows-1412065" size="1.000000 0.666667" />
+    <ImageTarget name="meeting-point-550822" size="1.000000 0.706039" />
+  </Tracking>
+</QCARConfig>
